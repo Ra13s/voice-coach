@@ -42,12 +42,21 @@ function Welcome({ navigateTo }) {
                 </h1>
                 <h2 style={{ 
                     fontSize: 'clamp(1rem, 3vw, 1.25rem)', 
-                    margin: '0', 
+                    margin: '0 0 0.5rem 0', 
                     color: '#666',
                     fontWeight: '400'
                 }}>
                     {t('app.subtitle')}
                 </h2>
+                <p style={{ 
+                    fontSize: 'clamp(0.9rem, 2.5vw, 1rem)', 
+                    margin: '0', 
+                    color: '#888',
+                    fontWeight: '300',
+                    fontStyle: 'italic'
+                }}>
+                    6-Week Progressive Training Program
+                </p>
             </div>
             
             <div style={{ 

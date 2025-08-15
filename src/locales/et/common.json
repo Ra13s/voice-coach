@@ -10,17 +10,17 @@
     "complete_session": "✅ Lõpeta sessioon"
   },
   "routines": {
-    "morning": "🌅 Hommikune harjutus",
-    "evening": "🌙 Õhtune harjutus", 
-    "weekend": "💪 Nädalavahetuse harjutus",
+    "morning": "🌅 Hommikune kava",
+    "evening": "🌙 Õhtune kava", 
+    "weekend": "💪 Nädalavahetuse kava",
     "optional": "🧬 Valikulised moodulid",
     "measure": "🎤 Mõõda häält",
     "workout_guide": "📖 Täielik Treeningu Juhend"
   },
   "routine_names": {
-    "morning": "Hommikune harjutus",
-    "evening": "Õhtune harjutus",
-    "weekend": "Nädalavahetuse harjutus",
+    "morning": "Hommikune kava",
+    "evening": "Õhtune kava",
+    "weekend": "Nädalavahetuse kava",
     "optional": "Valikulised moodulid"
   },
   "routine_descriptions": {
