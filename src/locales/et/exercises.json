@@ -1,0 +1,229 @@
+{
+  "laryngeal_reset": {
+    "name": "Sihipärane kõri ja õlgade lõdvestus",
+    "instructions": "EESMÄRK: Vabastada spetsiifilised lihaspinged (SCM, trapetslihase ülemine osa, keeleluuülesed lihased), mis tõstavad kõri, piiravad hingamisvoogu ja vähendavad resonantsi tõhusust.\n\nSAMMUD:\n1. SCM-lihase vabastamine (20s mõlemal poolel): Pööra pead veidi vasakule. Näpista/rulli õrnalt paremat kaelalihast kõrvast rangluuni. Vaheta poolt.\n\n2. Trapetslihase ülemise osa langetus (10s mõlemal poolel): Langeta parem kõrv parema õla suunas, samal ajal langetades vasakut õlga alla ja taha. Hinga kõhtu. Vaheta poolt.\n\n3. Resonantsi ankurdamine üminaga (10s): Hinga aeglaselt sisse, seejärel ümise \"mmmmm\" keskmisel helikõrgusel. Tunne vibratsiooni huultel ja ninas.",
+    "dos": [
+      "Kasuta õrna, meelitavat survet — ära kunagi suru tugevalt ega vajuta hingetorule",
+      "Hoia hingamine madal ja kerge; lase õlgadel allapoole vajuda"
+    ],
+    "donts": [
+      "Ära kalluta pead jõuga ega rebi kaela",
+      "Ära jätka, kui tunned valu või tuimust"
+    ]
+  },
+  "breathing_hiss": {
+    "name": "4-4-6 hingamine sisinaga",
+    "instructions": "Aseta üks käsi rinnale ja teine kõhule. Hinga vaikselt nina kaudu sisse 4 sekundi jooksul. Sinu kõht peaks laienema, samal ajal kui rindkere püsib suhteliselt paigal. Hoia hinge õrnalt kinni 4 sekundit, ilma kurku kokku pigistamata. Hinga välja sujuval, ühtlasel ja vaiksel \"S-S-S-S\"-helil 6 sekundi jooksul. Korda 3 minutit.",
+    "dos": [
+      "Hoia \"sss\"-heli täiesti ühtlase helitugevuse ja tooniga",
+      "Hoia õlad lõdvestunult ja all"
+    ],
+    "donts": [
+      "Ära tõsta sissehingamisel õlgu (see on märk pinnapealsest hingamisest)",
+      "Ära lase helil kõikuda ega lõppeda enne 6 sekundi möödumist"
+    ]
+  },
+  "straw_water": {
+    "name": "SOVT: Kõrs vees",
+    "instructions": "Aseta kõrs 2–5 cm sügavusele vette ja ümise õrna tooni, tekitades ühtlaseid mulle. Libista oma helikõrgust sujuvalt üles ja alla, hoides samal ajal heli ja õhuvoolu ühtlasena.",
+    "dos": [
+      "Püüdle vaikse, vestlusliku helitugevuse poole. Eesmärk on tunda sujuvat vibratsiooni",
+      "Hoia õhuvool ja mullitamine täiesti ühtlasena"
+    ],
+    "donts": [
+      "Ära pinguta helitugevusega. Kui tunned kurgus pinget, oled liiga vali",
+      "Ära tekita alguses plahvatuslikku heli- ega õhupuhangut"
+    ]
+  },
+  "lip_trills": {
+    "name": "SOVT: Huulte põrin",
+    "instructions": "Lõdvesta oma huuled ja puhu \"brrr\"-heli, seejärel lisa õrn toon. Libista oma helikõrgust sujuvalt üles ja alla, hoides samal ajal heli ja õhuvoolu ühtlasena.",
+    "dos": [
+      "Püüdle vaikse, vestlusliku helitugevuse poole. Tunne sujuvat vibratsiooni huultel ja ninas",
+      "Hoia õhuvool täiesti ühtlasena"
+    ],
+    "donts": [
+      "Ära pinguta helitugevusega. Kui tunned kurgus pinget, oled liiga vali",
+      "Ära aja põski punni ega pinguta lõuga"
+    ]
+  },
+  "carryover": {
+    "name": "\"ii-uu\" ülekandeharjutus",
+    "instructions": "Kohe pärast SOVT-harjutust hoia selget, ettepoole suunatud \"iiiii\"-vokaali. Keskendu sama suriseva, ettepoole suunatud vibratsiooni tundmisele, mida tundsid SOVT-i ajal. Kaotamata seda vibratsiooni, mine sujuvalt üle \"uuuuu\"-vokaalile, ümardades oma huuled. Vaheldumisi \"ii-uu-ii-uu\" ühel hingetõmbel, hoides resonantsi ühtlasena.",
+    "dos": [
+      "Hoia vibratsioon paigutatuna \"ettepoole\" näomaski piirkonda",
+      "Veendu, et üleminek oleks sujuv, mitte järsk"
+    ],
+    "donts": [
+      "Ära lase vibratsioonil \"tagasi\" kurku langeda, kui avad suu \"uu\" jaoks",
+      "Ära pinguta helitugevusega; hoia sama kerget helitugevust nagu SOVT-i ajal"
+    ]
+  },
+  "hum_sirens": {
+    "name": "Ümisevad sireenid",
+    "instructions": "Huuled õrnalt suletud, ümise \"m-m-m\", libistades samal ajal aeglaselt oma helikõrgust mugavast madalast noodist kõrge noodini ja tagasi alla. Märka vibratsioone oma huultel, ninas ja näos.",
+    "dos": [
+      "Tunne vibratsioone huultel, ninas ja näos",
+      "Hoia helikõrguse libisemised sujuvad ja ühendatud"
+    ],
+    "donts": [
+      "Ära suru lõuga kokku ega vajuta huuli liiga tugevalt",
+      "Ära forsseeri kõrgeid ega madalaid noote, mis tunduvad pingutatud"
+    ]
+  },
+  "formant_tuning": {
+    "name": "Formandi häälestamine (\"Kõla leidja\")",
+    "instructions": "Mine üle \"ning-ning-ning\"-helile. Libista oma helikõrgust uuesti, kuid seekord otsi spetsiifilist kohta, kus tunned maksimaalset \"surinat\" oma näomaskis (nina, hambad, laup). See surisev, helge tunne ongi \"kõla\". Kui oled selle leidnud, proovi öelda lühike fraas, püüdes taasluua sama ettepoole suunatud, elavat tunnet.",
+    "dos": [
+      "Otsi maksimaalset \"surina\" tunnet oma näomaskis",
+      "Harjuta selle \"kõla\" tunde ülekandmist kõnesse"
+    ],
+    "donts": [
+      "Ära lepi tuhmi või summutatud tooniga",
+      "Ära kaota rääkides ettepoole suunatud paigutust"
+    ]
+  },
+  "yawn_sigh": {
+    "name": "Haigutus-ohe",
+    "instructions": "Kutsu esile tõeline haigutus, seejärel lase sel vabaneda õrna \"ahhhh\"-oigega. Keskendu avatuse ja lõdvestuse tundele oma kurgus ja lõuas.",
+    "dos": [
+      "Luba tekkida ehtsal haigutusreaktsioonil",
+      "Tunne avarust oma kurgu tagaosas",
+      "Lase oigel olla loomulik ja sundimatu"
+    ],
+    "donts": [
+      "Ära sunni ega teeskle haigutust",
+      "Ära pingesta end oige ajal",
+      "Ära kiirusta vabanemisega"
+    ]
+  },
+  "sovt_cooldown": {
+    "name": "SOVT lõdvestus",
+    "instructions": "Tee mõned õrnad huulte põrinad või kõrre-libistamised, et oma häält pärast intensiivset kasutamist jahutada.",
+    "dos": [
+      "Hoia helid väga õrnad ja vaiksed",
+      "Keskendu pingutuse asemel lõdvestumisele"
+    ],
+    "donts": [
+      "Ära pinguta helitugevuse või intensiivsusega",
+      "Ära kiirusta – anna aega õrnaks taastumiseks"
+    ]
+  },
+  "vocal_ladder": {
+    "name": "Hääleredel ja hüüe-ja-langus",
+    "instructions": "Vali keeleväänaja (nt \"Kummikutega kummitus kummitas kummutis\"). Ütle fraas ühel hingetõmbel viiel erineval helitugevusel: 1. Sosinal -> 2. Vestluslik -> 3. Üle toa -> 4. Tänaval hüüdes -> 5. Tagasi vestluslikule tasemele. Pärast redelit tee \"Hüüe-ja-langus\": Hõika valjult \"Hei!\" ja ütle seejärel kohe tavaline lause.",
+    "dos": [
+      "Suurenda helitugevust, kaasates oma kere- ja kõhulihaseid, mitte kurku pigistades",
+      "Hoia artikulatsioon selge kõigil helitugevustel"
+    ],
+    "donts": [
+      "Ära lase oma lõual kokku suruda ega õlgadel tõusta valjudel tasemetel",
+      "Ära lase valjudel tasemetel tunduda kriipivalt või valusalt. Vähenda helitugevust, kui nii juhtub"
+    ]
+  },
+  "controlled_loud_read": {
+    "name": "Kontrollitud valjuhäälne lugemine",
+    "instructions": "Loe lõiku ette püsivalt valjul häälel (tänaval hüüdmise tase), säilitades samal ajal head tehnikat. Keskendu hääle vastupidavuse arendamisele. Tee seda ainult kolmapäeviti ja reedeti.",
+    "dos": [
+      "Kasuta diafragma tuge püsiva valjuse saavutamiseks",
+      "Säilita selge artikulatsioon kogu aeg",
+      "Tee pause, kui tunned pinget"
+    ],
+    "donts": [
+      "Ära jätka, kui su hääl tundub kriipiv või väsinud",
+      "Ära ohverda kiiruse nimel hingamistuge"
+    ]
+  },
+  "reading_aloud": {
+    "name": "Valjuhäälne lugemine",
+    "instructions": "Loe üks lehekülg raamatust valjuhäälselt tavalise helitugevusega, et hoida oma häält aktiivsena ja vältida esmaspäeva hommikust kangust.",
+    "dos": [
+      "Kasuta loomulikku, vestluslikku helitugevust",
+      "Keskendu selgele artikulatsioonile ja väljendusrikkusele"
+    ],
+    "donts": [
+      "Ära pomise ega räägi liiga vaikselt",
+      "Ära kiirusta tekstist läbi"
+    ]
+  },
+  "cold_start_protocol": {
+    "name": "Külmkäivitusprotokoll",
+    "instructions": "Soorita kiire hääle aktiveerimise järjestus: Nuusutus-ohe (30s) -> Kõrre õhupuhangud (30s) -> Helikõrguse libistamised (30s) -> Huulte põrin \"brrr-aa\" (30s).",
+    "dos": [
+      "Hoia kõik helid õrnad ja kerged",
+      "Keskendu hääle järkjärgulisele äratamisele"
+    ],
+    "donts": [
+      "Ära forsseeri ühtegi heli ega pinguta helitugevusega",
+      "Ära jäta järjestuses samme vahele"
+    ]
+  },
+  "singing_humming": {
+    "name": "Laulmine või ümisemine",
+    "instructions": "Laula või ümise kaasa kahele lemmiklaulule. Naudi muusikalist aspekti, hoides samal ajal oma häält aktiivsena.",
+    "dos": [
+      "Vali laulud, mis sulle meeldivad ja mida sa hästi tead",
+      "Lõbutse, säilitades samal ajal head hääleharjumused"
+    ],
+    "donts": [
+      "Ära pinguta, et tabada noote väljaspool oma mugavusulatust",
+      "Ära laula nii valjult, et tunned kurgus pinget"
+    ]
+  },
+  "soft_palate_work": {
+    "name": "Pehme suulae aktiveerimine",
+    "instructions": "Kolm harjutust: 1) NG-AH (45s): Ütle 'sing' ja hoia 'ng' 3 sekundit, tunne keelt vastu pehmet suulage, seejärel lase langeda valjuks selgeks 'AHHH'. Korda 10 korda. 2) Haigutuse hoidmine (45s): Hoia haigutuse tippu 3-4 sekundit, tunne avarust. Korda 5 korda. 3) K-G-K-G harjutused (30s): Vaheldumisi kiirelt 'Kõ-Gõ-Kõ-Gõ' helid.",
+    "dos": [
+      "Tunne dramaatilist tõstvat tunnet oma suu tagaosas",
+      "Keskendu suletud ja avatud asendite kontrastile",
+      "Tee K-G helid teravaks ja plahvatuslikuks"
+    ],
+    "donts": [
+      "Ära forsseeri ega pinguta liigutusi",
+      "Ära kiirusta harjutustega",
+      "Ära jäta tunnetuslikku aspekti vahele"
+    ]
+  },
+  "nasal_oral_contrast": {
+    "name": "Nasaalse/oraalse kontrasti harjutus",
+    "instructions": "Tahtlik kontrast (1 min): Ütle vaheldumisi 'mann... patt...'. 'Mann' puhul suru heli läbi nina, tunne vibratsiooni ninasillal. 'Patt' puhul loo puhtalt suuline heli ainult suust. Rõhuta erinevust. Lauseharjutus (1 min): Ütle 'Pai papa, pai poeg' sama suulise tundega nagu 'patt'. Kasuta täpsuse kontrollimiseks ninakinnipigistamise testi.",
+    "dos": [
+      "Rõhuta nasaalsete ja oraalsete helide erinevust",
+      "Keskendu füüsilistele aistingutele",
+      "Kasuta oma täpsuse kontrollimiseks ninakinnipigistamise testi"
+    ],
+    "donts": [
+      "Ära tee peeneid erinevusi - tee need ilmseks",
+      "Ära ignoreeri füüsilise aistingu tagasisidet",
+      "Ära jäta kontrollimise sammu vahele"
+    ]
+  },
+  "bite_block_reading": {
+    "name": "Hammustusplokiga lugemine",
+    "instructions": "⚠️ ETTEVAATUST: Ära tee seda, kui sul on lõuavalu või temporomandibulaarliigese (TMJ) probleeme. Aseta puhas pliiats horisontaalselt oma purihammaste (külgmised hambad) vahele, hammustades õrnalt. Loe lõik valjuhäälselt, artikuleerides selgelt takistusest hoolimata. Sinu keel peab tegema kogu töö. 1 minuti pärast eemalda pliiats ja loe sama lõik uuesti. Märka suurenenud suuruumi ja paranenud selgust.",
+    "dos": [
+      "Kasuta puhast pliiatsit või pastakat horisontaalselt",
+      "Keskendu keele sõltumatusele lõuast",
+      "Märka paranenud selgust pärast eemaldamist"
+    ],
+    "donts": [
+      "Ära tee seda lõuavalu või TMJ probleemide korral",
+      "Ära suru tugevalt – eesmärk on suu avada",
+      "Ära kiirusta võrdlusega pärast eemaldamist"
+    ]
+  },
+  "rmst_training": {
+    "name": "RMST - Hingamislihaste jõutreening",
+    "instructions": "Suure pingutusega jõuharjutus hingamisjõu arendamiseks. Tee 5 seeriat 5 hingetõmbega. Iga hingetõmbe jaoks: Hinga täielikult sisse, seejärel hinga jõuliselt ja ühtlaselt välja läbi suure takistusega vahendi. Kasuta kitsast kokteilikõrt või pigista tavaline kõrs peaaegu kinni. See peaks tunduma nagu lihaspingutus kõhus. Lõpeta, kui pea hakkab ringi käima.",
+    "dos": [
+      "Loo märkimisväärne takistus õhuvoolule",
+      "Keskendu ühtlasele, püsivale väljahingamisele",
+      "Tunne lihaspingutust oma kõhus"
+    ],
+    "donts": [
+      "Ära jätka, kui tunned pearinglust",
+      "Ära kiirusta väljahingamistega",
+      "Ära kasuta seda soojenduseks – see on jõutreening"
+    ]
+  }
+}

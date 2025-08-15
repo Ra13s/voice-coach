@@ -1,0 +1,229 @@
+{
+  "laryngeal_reset": {
+    "name": "Targeted Laryngeal & Shoulder Reset",
+    "instructions": "PURPOSE: Release specific muscle tension (SCM, upper trapezius, suprahyoids) that elevates the larynx, restricts breath flow, and reduces resonance efficiency.\n\nSTEPS:\n1. SCM Release (20s each side): Turn head slightly left. Gently pinch/roll the right neck muscle from ear to collarbone. Switch sides.\n\n2. Upper Trapezius Drop (10s each side): Drop right ear toward right shoulder while lowering left shoulder down and back. Breathe into belly. Switch sides.\n\n3. Resonance Anchor Hum (10s): Slow inhale, then hum \"mmmmm\" at mid pitch. Feel vibration in lips and nose.",
+    "dos": [
+      "Use gentle, coaxing pressure — never dig or press on windpipe",
+      "Keep breath low and easy; let shoulders melt downward"
+    ],
+    "donts": [
+      "Don't force head tilt or yank the neck",
+      "Don't continue if you feel pain or numbness"
+    ]
+  },
+  "breathing_hiss": {
+    "name": "4-4-6 Hiss Breathing",
+    "instructions": "Place one hand on your chest and one on your belly. Inhale quietly through your nose for a 4-count. Your belly should expand while your chest stays relatively still. Hold the breath gently for a 4-count, without clamping your throat. Exhale on a smooth, steady, and quiet \"S-S-S-S\" sound for a 6-count. Repeat for 3 minutes.",
+    "dos": [
+      "Keep the \"sss\" sound perfectly consistent in volume and tone",
+      "Keep your shoulders relaxed and down"
+    ],
+    "donts": [
+      "Don't raise your shoulders when inhaling (a sign of shallow breathing)",
+      "Don't let the sound waver or run out before the 6-count is up"
+    ]
+  },
+  "straw_water": {
+    "name": "SOVT: Straw in Water",
+    "instructions": "Place a straw 1-2 inches into water and hum a gentle tone, making steady bubbles. Glide your pitch smoothly up and down while keeping the sound and airflow even.",
+    "dos": [
+      "Aim for a quiet, conversational volume. The goal is to feel a smooth vibration",
+      "Keep the airflow and bubbling perfectly consistent"
+    ],
+    "donts": [
+      "Don't push for loudness. If your throat feels tight, you're too loud",
+      "Don't create an explosive burst of sound or air at the start"
+    ]
+  },
+  "lip_trills": {
+    "name": "SOVT: Lip Trills",
+    "instructions": "Relax your lips and blow a \"brrr\" sound, then add a gentle tone. Glide your pitch smoothly up and down while keeping the sound and airflow even.",
+    "dos": [
+      "Aim for a quiet, conversational volume. Feel smooth vibration on your lips and nose",
+      "Keep the airflow perfectly consistent"
+    ],
+    "donts": [
+      "Don't push for loudness. If your throat feels tight, you're too loud",
+      "Don't puff out your cheeks or tense your jaw"
+    ]
+  },
+  "carryover": {
+    "name": "\"ee-oo\" Carryover Drill",
+    "instructions": "Immediately after your SOVT exercise, sustain a bright, forward \"eeeee\" vowel. Focus on feeling the same buzzy, forward vibration you felt during the SOVT. Without losing that vibration, smoothly transition the vowel to an \"ooooo\" by rounding your lips. Alternate \"ee-oo-ee-oo\" on a single breath, keeping the resonance consistent.",
+    "dos": [
+      "Keep the vibration placed \"forward\" in your facial mask",
+      "Ensure the transition is smooth, not abrupt"
+    ],
+    "donts": [
+      "Don't let the vibration \"fall back\" into your throat when you open to \"oo\"",
+      "Don't push for volume; match the easy volume of your SOVT"
+    ]
+  },
+  "hum_sirens": {
+    "name": "Hum-Sirens",
+    "instructions": "With lips gently closed, hum \"m-m-m\" while slowly gliding your pitch from a comfortable low note to a high note and back down. Notice the vibrations in your lips, nose, and face.",
+    "dos": [
+      "Feel vibrations in your lips, nose, and face",
+      "Keep the pitch glides smooth and connected"
+    ],
+    "donts": [
+      "Don't clench your jaw or press lips too tightly",
+      "Don't force high or low notes that feel strained"
+    ]
+  },
+  "formant_tuning": {
+    "name": "Formant Tuning (\"Ring Finder\")",
+    "instructions": "Switch to a \"ning-ning-ning\" sound. Glide your pitch again, but this time, hunt for the specific spot where you feel the maximum \"buzz\" in your facial mask (nose, teeth, forehead). This buzzy, bright sensation is the \"ring.\" Once you find it, try speaking a short phrase while aiming to recreate that same forward, vibrant feeling.",
+    "dos": [
+      "Hunt for the maximum \"buzz\" sensation in your facial mask",
+      "Practice carrying that \"ring\" feeling into speech"
+    ],
+    "donts": [
+      "Don't settle for a dull or muffled tone",
+      "Don't lose the forward placement when speaking"
+    ]
+  },
+  "yawn_sigh": {
+    "name": "Yawn-Sigh",
+    "instructions": "Induce a real yawn, then release with a gentle \"ahhhh\" sigh. Focus on the feeling of openness and relaxation in your throat and jaw.",
+    "dos": [
+      "Allow a genuine yawn response",
+      "Feel the openness at the back of your throat",
+      "Let the sigh be natural and unforced"
+    ],
+    "donts": [
+      "Don't force or fake the yawn",
+      "Don't tense up during the sigh",
+      "Don't rush through the release"
+    ]
+  },
+  "sovt_cooldown": {
+    "name": "SOVT Cool-down",
+    "instructions": "Perform a few gentle lip trills or straw glides to cool down your voice after intensive use.",
+    "dos": [
+      "Keep the sounds very gentle and quiet",
+      "Focus on relaxation rather than effort"
+    ],
+    "donts": [
+      "Don't push for volume or intensity",
+      "Don't rush - allow time for gentle recovery"
+    ]
+  },
+  "vocal_ladder": {
+    "name": "Vocal Ladder & Call-and-Drop",
+    "instructions": "Choose a tongue-twister (e.g., \"Red leather, yellow leather\"). Say the phrase on a single breath at five different volume levels: 1. Whisper -> 2. Conversational -> 3. Across-the-room -> 4. Street-call -> 5. Back to conversational. After the ladder, do a \"Call-and-Drop\": Project a loud \"Hey!\" then immediately say a normal sentence.",
+    "dos": [
+      "Increase volume by engaging your core and diaphragm, not by squeezing your throat",
+      "Keep articulation clear at all volume levels"
+    ],
+    "donts": [
+      "Don't let your jaw clench or your shoulders rise on the loud levels",
+      "Don't let the loud levels feel scratchy or painful. Reduce volume if they do"
+    ]
+  },
+  "controlled_loud_read": {
+    "name": "Controlled Loud Read",
+    "instructions": "Read a passage aloud at a sustained loud volume (street-call level) while maintaining good technique. Focus on building vocal endurance. Perform only on Wednesdays and Fridays.",
+    "dos": [
+      "Use diaphragmatic support for sustained loudness",
+      "Maintain clear articulation throughout",
+      "Take breaks if you feel any strain"
+    ],
+    "donts": [
+      "Don't continue if your voice feels scratchy or tired",
+      "Don't sacrifice breath support for speed"
+    ]
+  },
+  "reading_aloud": {
+    "name": "Reading Aloud",
+    "instructions": "Read one page of a book aloud at a normal volume to keep your voice active and prevent Monday morning stiffness.",
+    "dos": [
+      "Use natural, conversational volume",
+      "Focus on clear articulation and expression"
+    ],
+    "donts": [
+      "Don't mumble or speak too quietly",
+      "Don't rush through the text"
+    ]
+  },
+  "cold_start_protocol": {
+    "name": "Cold-Start Protocol",
+    "instructions": "Perform a quick voice activation sequence: Sniff-Sigh (30s) -> Straw Air Bursts (30s) -> Pitch Glides (30s) -> Lip Trill \"brrr-ah\" (30s).",
+    "dos": [
+      "Keep all sounds gentle and easy",
+      "Focus on waking up the voice gradually"
+    ],
+    "donts": [
+      "Don't force any sounds or push for volume",
+      "Don't skip steps in the sequence"
+    ]
+  },
+  "singing_humming": {
+    "name": "Singing or Humming",
+    "instructions": "Sing or hum along to two favorite songs. Enjoy the musical aspect while keeping your voice active.",
+    "dos": [
+      "Choose songs you enjoy and know well",
+      "Have fun while maintaining good vocal habits"
+    ],
+    "donts": [
+      "Don't strain to hit notes outside your comfortable range",
+      "Don't sing so loudly that you feel throat tension"
+    ]
+  },
+  "soft_palate_work": {
+    "name": "Soft Palate Activation",
+    "instructions": "Three exercises: 1) NG-AH (45s): Say 'sing' and hold the 'ng' for 3 seconds, feel tongue against soft palate, then drop to loud clear 'AHHH'. Repeat 10 times. 2) Yawn-Holds (45s): Hold peak of yawn for 3-4 seconds, feel the space. Repeat 5 times. 3) K-G-K-G Drills (30s): Rapidly alternate 'Kuh-Guh-Kuh-Guh' sounds.",
+    "dos": [
+      "Feel the dramatic lifting sensation at the back of your mouth",
+      "Focus on the contrast between closed and open positions",
+      "Make K-G sounds sharp and explosive"
+    ],
+    "donts": [
+      "Don't force or strain the movements",
+      "Don't rush through the exercises",
+      "Don't skip the sensing/feeling aspect"
+    ]
+  },
+  "nasal_oral_contrast": {
+    "name": "Nasal/Oral Contrast Drill",
+    "instructions": "Intentional Contrast (1 min): Say 'man... bad...' alternating. On 'man,' push sound through nose, feel vibration on bridge of nose. On 'bad,' create purely oral sound from mouth only. Exaggerate the difference. Sentence Practice (1 min): Say 'Buy baby a bib' with the same oral feeling as 'bad.' Use nose-pinch test to check accuracy.",
+    "dos": [
+      "Exaggerate the difference between nasal and oral sounds",
+      "Focus on the physical sensations",
+      "Use the nose-pinch test to verify your accuracy"
+    ],
+    "donts": [
+      "Don't make subtle differences - make them obvious",
+      "Don't ignore the physical sensation feedback",
+      "Don't skip the verification step"
+    ]
+  },
+  "bite_block_reading": {
+    "name": "Bite Block Reading",
+    "instructions": "⚠️ CAUTION: Do not do this if you have jaw pain or TMJ issues. Place a clean pencil horizontally between your molars (side teeth), biting gently. Read a paragraph aloud, articulating clearly despite the obstruction. Your tongue must do all the work. After 1 minute, remove pencil and read the same paragraph again. Notice increased mouth space and improved clarity.",
+    "dos": [
+      "Use a clean pencil or pen horizontally",
+      "Focus on tongue independence from jaw",
+      "Notice the improved clarity after removal"
+    ],
+    "donts": [
+      "Don't do this with jaw pain or TMJ issues",
+      "Don't clench down hard - goal is to open mouth",
+      "Don't rush the comparison after removal"
+    ]
+  },
+  "rmst_training": {
+    "name": "RMST - Respiratory Muscle Strength Training",
+    "instructions": "High-effort strength exercise for breath power. Perform 5 sets of 5 breaths. For each breath: Take full inhale, then exhale forcefully and steadily through high-resistance tool. Use narrow cocktail straw or pinch regular straw almost shut. Should feel like muscular effort in abdomen. Stop if dizzy.",
+    "dos": [
+      "Create significant resistance to airflow",
+      "Focus on steady, sustained exhalation",
+      "Feel the muscular effort in your abdomen"
+    ],
+    "donts": [
+      "Don't continue if you feel dizzy",
+      "Don't rush the exhalations",
+      "Don't use this as a warm-up - it's strength training"
+    ]
+  }
+}
