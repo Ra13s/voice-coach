@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Häälekool",
-    "subtitle": "Teie hääletehnilise treeningu teekond algab siit"
+    "subtitle": "Teie hääletehnilise treeningu teekond algab siit",
+    "program_duration": "6-nädalane progressiivne treeningprogramm"
   },
   "navigation": {
     "back_to_home": "Tagasi avalehele",

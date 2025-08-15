@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Voice Coach",
-    "subtitle": "Your vocal training journey starts here"
+    "subtitle": "Your vocal training journey starts here",
+    "program_duration": "6-Week Progressive Training Program"
   },
   "navigation": {
     "back_to_home": "← Back to Home",

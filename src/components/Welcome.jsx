@@ -55,7 +55,7 @@ function Welcome({ navigateTo }) {
                     fontWeight: '300',
                     fontStyle: 'italic'
                 }}>
-                    6-Week Progressive Training Program
+                    {t('app.program_duration')}
                 </p>
             </div>
             
