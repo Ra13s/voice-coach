@@ -16,8 +16,8 @@ function Welcome({ navigateTo }) {
     
     // Dynamic workout guide link based on language
     const workoutGuideUrl = language === 'et' 
-        ? './docs/vocal_workout_et.html' 
-        : './docs/vocal_workout.html';
+        ? './vocal_workout_et.html' 
+        : './vocal_workout.html';
     return (
         <div style={{ 
             display: 'flex',
