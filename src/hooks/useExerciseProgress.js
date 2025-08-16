@@ -263,6 +263,10 @@ export function useExerciseProgress(exerciseId, totalSteps, onComplete) {
     return `${mins}:${secs.toString().padStart(2, '0')}`
   }, [])
 
+  const getTotalRoutineDuration = useCallback(() => {
+    return currentRoutine.exercises.reduce((total, exercise) => total + (exercise.duration || 0), 0)
+  }, [currentRoutine])
+
   const getProgress = useCallback(() => {
     return {
       current: currentStep + 1,
@@ -291,6 +295,7 @@ export function useExerciseProgress(exerciseId, totalSteps, onComplete) {
     // Helpers
     formatTime,
     getProgress,
+    getTotalRoutineDuration,
     
     // Available routines
     routines

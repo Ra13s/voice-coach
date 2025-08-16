@@ -400,9 +400,10 @@ function ExerciseOverviewItem({ exercise, index, currentStep, t }) {
   return (
     <div
       style={{
-        display: 'flex',
-        justifyContent: 'space-between',
+        display: 'grid',
+        gridTemplateColumns: '3fr 1.5fr 1fr 1.2fr',
         alignItems: 'center',
+        gap: '12px',
         padding: '8px 12px',
         background: index === currentStep ? '#f0f4ff' : '#f8f9fa',
         borderRadius: '6px',
@@ -415,25 +416,34 @@ function ExerciseOverviewItem({ exercise, index, currentStep, t }) {
       }}>
         {exerciseContent.name}
       </span>
-      <div style={{ 
-        display: 'flex', 
-        gap: '15px', 
+      <span style={{ 
         fontSize: '12px', 
         color: '#666'
       }}>
-        <span>{exercise.type}</span>
-        <span>{Math.floor(exercise.duration / 60)}:{(exercise.duration % 60).toString().padStart(2, '0')}</span>
+        {t(`types.${exercise.type}`)}
+      </span>
+      <span style={{ 
+        fontSize: '12px', 
+        color: '#666',
+        textAlign: 'center'
+      }}>
+        {Math.floor(exercise.duration / 60)}:{(exercise.duration % 60).toString().padStart(2, '0')}
+      </span>
+      <div style={{ 
+        fontSize: '12px',
+        textAlign: 'right'
+      }}>
+        {index < currentStep && (
+          <span style={{ color: '#4CAF50' }}>
+            {t('overview.completed')}
+          </span>
+        )}
+        {index === currentStep && (
+          <span style={{ color: '#667eea' }}>
+            {t('overview.current')}
+          </span>
+        )}
       </div>
-      {index < currentStep && (
-        <div style={{ fontSize: '12px', color: '#4CAF50', marginTop: '5px' }}>
-          {t('overview.completed')}
-        </div>
-      )}
-      {index === currentStep && (
-        <div style={{ fontSize: '12px', color: '#667eea', marginTop: '5px' }}>
-          {t('overview.current')}
-        </div>
-      )}
     </div>
   )
 }
@@ -454,7 +464,9 @@ export default function Wizard({ className = '', onExerciseComplete, navigateTo,
     previousStep,
     reset,
     formatTime,
-    getProgress
+    getProgress,
+    getTotalRoutineDuration,
+    isActive
   } = useExerciseProgress(selectedRoutine, 10, onExerciseComplete)
 
   // Routine execution view
@@ -509,7 +521,7 @@ export default function Wizard({ className = '', onExerciseComplete, navigateTo,
               fontSize: 'clamp(16px, 3.5vw, 20px)', 
               fontWeight: 'bold' 
             }}>
-              {formatTime(timeElapsed)}
+              {formatTime(isActive ? timeElapsed : getTotalRoutineDuration())}
             </div>
             <div style={{ 
               fontSize: 'clamp(10px, 2vw, 12px)', 
