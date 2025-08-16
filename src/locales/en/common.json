@@ -152,7 +152,10 @@
     "strengthening": "Strengthening",
     "sensory_training": "Sensory Training",
     "advanced_technique": "Advanced Technique",
-    "strength_training": "Strength Training"
+    "strength_training": "Strength Training",
+    "maintenance": "Maintenance",
+    "activation": "Activation",
+    "enjoyment": "Enjoyment"
   },
   "exercise": {
     "do": "✓ Do:",

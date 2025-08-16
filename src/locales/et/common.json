@@ -152,7 +152,10 @@
     "strengthening": "Tugevdamine",
     "sensory_training": "Meeleharjutus",
     "advanced_technique": "Edasijõudnud tehnika",
-    "strength_training": "Jõutreening"
+    "strength_training": "Jõutreening",
+    "maintenance": "Hooldus",
+    "activation": "Aktiveerimine",
+    "enjoyment": "Nauding"
   },
   "exercise": {
     "do": "✓ Tee:",
