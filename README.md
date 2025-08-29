@@ -2,6 +2,10 @@
 
 A collaborative AI-designed voice training application built with React + Vite for guided vocal exercises and strength building.
 
+## 🌐 Live Application
+
+Visit the live application: [Voice Coach App](https://ra13s.github.io/voice-coach)
+
 ## ✨ About This Project
 
 This is a **vibe-coded** application developed through collaborative planning with **Claude, Gemini, ChatGPT, and Ra13s**. The workout routines and exercises were designed by this collaboration, implementing evidence-based voice training techniques adapted for everyday use.
@@ -82,10 +86,6 @@ Based on evidence-based vocal therapy techniques:
 - **Formant Tuning** - Ring Finder resonance training
 - **Breathing Patterns** - 4-4-6, 4-7-8, and 6-2-8 cycles
 - **Vocal Ladder & Call-Drop** - Dynamic range exercises
-
-## 🌐 Live Demo
-
-Visit the live application: [Voice Coach App](https://ra13s.github.io/voice-coach)
 
 ## 📄 License
 
