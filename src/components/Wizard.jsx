@@ -39,6 +39,14 @@ function ExerciseStep({ step, isActive, onNext, onPrev, onComplete, className = 
             setTimeout(() => playSound(659, 0.2), 200) // E5
             setTimeout(() => playSound(784, 0.4), 400) // G5
             setTimerActive(false)
+            
+            // Auto-advance to next exercise (same logic as breathing exercises)
+            console.log('🎯 Exercise timer completed!')
+            if (onNext) {
+              onNext()
+            } else if (onComplete) {
+              onComplete()
+            }
           }
           
           return newTime
@@ -55,7 +63,7 @@ function ExerciseStep({ step, isActive, onNext, onPrev, onComplete, className = 
         clearTimeout(timerRef.current)
       }
     }
-  }, [timerActive, timerPaused, timeLeft])
+  }, [timerActive, timerPaused, timeLeft, onNext, onComplete])
 
   const startTimer = () => {
     if (timeLeft > 0) {
